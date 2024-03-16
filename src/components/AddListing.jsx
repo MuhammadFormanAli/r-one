@@ -22,7 +22,6 @@ const AddListing = () => {
                 <p className="m-0 ps-2 fw-semibold ">People</p>
               </div>
               <p>
-                {" "}
                 Find a teacher, coach, or expert for your hobby interest in your
                 locality. Find a partner, teammate, accompanist or collaborator.
               </p>
@@ -36,7 +35,6 @@ const AddListing = () => {
                 <p className="m-0 ps-2 fw-semibold">Place</p>
               </div>
               <p>
-                {" "}
                 Find a teacher, coach, or expert for your hobby interest in your
                 locality. Find a partner, teammate, accompanist or collaborator.
               </p>
@@ -46,13 +44,12 @@ const AddListing = () => {
 
         <Row className="mt-4">
           <Col id="product" md={6} className="">
-            <div className="border border-warning p-4 rounded ">
+            <div  className=" product-border p-4 rounded ">
               <div className="d-flex align-items-center">
                 <MdShoppingBasket className="fw-bold fs-3" />
                 <p className="m-0 ps-2 fw-semibold">Product</p>
               </div>
               <p>
-                {" "}
                 Find a teacher, coach, or expert for your hobby interest in your
                 locality. Find a partner, teammate, accompanist or collaborator.
               </p>
@@ -66,7 +63,6 @@ const AddListing = () => {
                 <p className="m-0 ps-2 fw-semibold ">Program</p>
               </div>
               <p>
-                {" "}
                 Find a teacher, coach, or expert for your hobby interest in your
                 locality. Find a partner, teammate, accompanist or collaborator.
               </p>

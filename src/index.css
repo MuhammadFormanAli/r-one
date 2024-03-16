@@ -56,8 +56,15 @@ color: white !important;
 background-color: #C0504D !important;
 color: white !important;
 }
+.product-border {
+border: 1px solid #C0504D !important ;
+}
 
 #program :hover{
 background-color: #0096C8 !important;
 color: white !important;
 }
+
+.outline-none {
+  outline: none !important ;
+  }

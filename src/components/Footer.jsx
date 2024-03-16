@@ -134,7 +134,7 @@ const Footer = () => {
 
           <div className=" d-flex align-items-center border-lilac rounded-2 ">
             <input
-              className="py-2 w-100   border-0 ps-2 rounded-start-2"
+              className="py-2 w-100 outline-none  border-0 ps-2 rounded-start-2"
               type="text"
               placeholder="Email ID"
             />

@@ -11,7 +11,6 @@ const Hobby = () => {
               <p className="m-0 ps-2 fw-semibold ">People</p>
             </div>
             <p>
-              {" "}
               Find a teacher, coach, or expert for your hobby interest in your
               locality. Find a partner, teammate, accompanist or collaborator.
             </p>
@@ -27,7 +26,6 @@ const Hobby = () => {
               <p className="m-0 ps-2 fw-semibold">Place</p>
             </div>
             <p>
-              {" "}
               Find a teacher, coach, or expert for your hobby interest in your
               locality. Find a partner, teammate, accompanist or collaborator.
             </p>
@@ -46,7 +44,6 @@ const Hobby = () => {
               <p className="m-0 ps-2 fw-semibold">Product</p>
             </div>
             <p>
-              {" "}
               Find a teacher, coach, or expert for your hobby interest in your
               locality. Find a partner, teammate, accompanist or collaborator.
             </p>
@@ -62,7 +59,6 @@ const Hobby = () => {
               <p className="m-0 ps-2 fw-semibold">Program</p>
             </div>
             <p>
-              {" "}
               Find a teacher, coach, or expert for your hobby interest in your
               locality. Find a partner, teammate, accompanist or collaborator.
             </p>
